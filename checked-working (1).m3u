@@ -1,0 +1,6 @@
+#EXTM3U
+#PLAYLIST:Checked by CODECS.COM M3U Checker
+
+#EXTINF:-1 tvg-id="VivaNicaraguaCanal13.ni" group-title="Nicaragua",Viva Nicaragua Canal 13
+https://cdn.vivamediosni.com/viva_1080p/main_stream.m3u8
+
