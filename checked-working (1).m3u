@@ -3,7 +3,5 @@
 
 #EXTINF:-1 tvg-id="VivaNicaraguaCanal13.ni" group-title="Nicaragua",Viva Nicaragua Canal 13
 https://cdn.vivamediosni.com/viva_1080p/main_stream.m3u8
-
-#EXTM3U
 #EXTINF:-2, tvg-id="Canal 4.ni" group-title="Nicaragua"Canal 4
 https://live.eu-north-1a.cf.dmcdn.net/sec2(WL3dpiSEtFdumjmDgSsrTCRjpcz2sruDZNZekvGcVqG1naniq3al25UtiMpiwgSnEHaKL1W3mZJnDs8I6zFiu1w-k1LqisphVigqrSjeAQT7RFqTH3rfuCC4-l9KBote)/dm/3/x7rwv8c/s/live-480.m3u8
